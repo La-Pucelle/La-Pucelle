@@ -15,7 +15,7 @@
 - Java
 - C/C++
 - Javascript
-- React
+- SQL
 
 🖤 Abandoned project
 - Hashira Ragnarok Online server (Server with 200 players)
