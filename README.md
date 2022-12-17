@@ -4,7 +4,7 @@
 
 ‍💻 Projects
 
-- Hashira Ragnarok online server with cpanel
+- Alnair Ragnarok online server with cpanel
 - Page with server-side operations.
 - I am currently building a react site with a modern design.
 - Minecraft Network.
@@ -16,6 +16,11 @@
 - C/C++
 - Javascript
 - React
+
+🖤 Abandoned project
+- Hashira Ragnarok Online server (Server with 200 players)
+- Hashira Discord Bot
+- Hashira Page
 <!---
 La-Pucelle/La-Pucelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
