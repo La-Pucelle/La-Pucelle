@@ -10,7 +10,6 @@
 - Page with server-side operations.
 - I am currently building a react site with a modern design [GitHub Pages](https://github.com/zoociego/hashira).
 - Minecraft Network [GitHub Pages](https://github.com/La-Pucelle/Minecraft-Coffee).
-- I'm on my way to building indie games [GitHub Pages](https://pages.github.com/).
 
 # 💻 Languages
 
