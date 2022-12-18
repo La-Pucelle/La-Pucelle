@@ -12,10 +12,11 @@
 
 ‍💻 Languages
 
+- SQL
 - Java
 - C/C++
 - Javascript
-- SQL
+- Python
 
 🖤 Abandoned project
 - Hashira Ragnarok Online server (Server with 200 players)
