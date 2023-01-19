@@ -4,11 +4,11 @@
 <p align="center">
 
 <a href="https://dsc.bio/lapucelle">
-  <img src="https://lanyard.cnrad.dev/api/500787513330499584?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
+  <img src="https://lanyard.cnrad.dev/api/500787513330499584?theme=light&bg=9ecf80&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
 </a>
 
 <p align="center"> 
-  <a href="https://discord.gg/coffee-and-cats" target="_blank"> <img src="https://discordapp.com/api/guilds/1002636375360802936/widget.png?style=shield"/> </a> 
+  <a href="https://discord.gg/coffee-and-cats" target="_blank"> <img src="https://cdn.discordapp.com/attachments/852770019413721158/1065686834518175754/widget.png"/> </a> 
 </p>
 
 # About me
@@ -42,7 +42,8 @@ La-Pucelle/La-Pucelle is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![2dce2b15886955b2ae5dbde42830875a](https://user-images.githubusercontent.com/108086683/208324960-1a4596d1-46de-4ead-a320-5adf412990d3.gif)
-
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/108086683/208324960-1a4596d1-46de-4ead-a320-5adf412990d3.gif"/>
+</p>
 
 
