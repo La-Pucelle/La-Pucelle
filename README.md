@@ -19,10 +19,10 @@
 
 # ‍💻  Projects
 
-- Alnair Ragnarok online server with cpanel [GitHub Pages](https://github.com/La-Pucelle/Alnair-Ro).
+- Alnair Ragnarok online server with cpanel.
 - Page with server-side operations.
-- I am currently building a react site with a modern design [GitHub Pages](https://github.com/zoociego/hashira).
-- Minecraft Network [GitHub Pages](https://github.com/La-Pucelle/Minecraft-Coffee).
+- I am currently building a react site with a modern design.
+- Minecraft Network.
 
 # 💻 Languages
 
