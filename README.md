@@ -61,15 +61,3 @@
 Hi, I’m @La-Pucelle. I am a programming student, I have experience in design and animations. I work with programs such as Photoshop, Illustratos, Premiere, After effects and audition. I am also a musician, I study clarinet and piano, I manage music composition in ableton studio. 🌱 I’m currently learning to program in C++, I have some pending projects.
 
 </details>
-
-<details open> 
-  <summary><h2>🖤 Abandoned project</h2></summary>
-
-  - Hashira Ragnarok Online server (Server with 200 players)
-  - Hashira Discord Bot
-  - Hashira Page
-
-  <p align="center"> 
-    <img src="https://user-images.githubusercontent.com/108086683/208324960-1a4596d1-46de-4ead-a320-5adf412990d3.gif"/>
-  </p>
-</details>
