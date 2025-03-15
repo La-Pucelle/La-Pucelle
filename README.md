@@ -8,8 +8,8 @@
 </div>
 <br />
 <div align="center"> 
-  <a href="https://dsc.bio/lapucelle">
-  <img src="https://lanyard.kyrie25.me/api/500787513330499584" />
+  <a href="https://www.lapushel.dev/about">
+  <img src="https://lanyard.cnrad.dev/api/500787513330499584?theme=light&bg=9ecf80&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Maybe%20he%20is%20studying..." />
 </div>
 <br />
 <div align="center">
